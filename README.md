@@ -97,10 +97,7 @@ Down below some motivational advices:
 
 <!--   GitHub snake contribution graph -->
 <!-- GitHub Snake contribution graph -->
-<h3 align="center">🐍 GitHub Snake eating my contribution graph:</h3>
-<p align="center">
-  <img src="https://github.com/akash1675/akash1675/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+
 
 
 <!--   GitHub snake contribution graph -->
