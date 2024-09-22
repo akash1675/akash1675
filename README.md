@@ -96,9 +96,12 @@ Down below some motivational advices:
 <br>
 
 <!--   GitHub snake contribution graph -->
-<h3 align="center"> 🐍 GitHub Snake eating my contribution graph: </h3>
+<!-- GitHub Snake contribution graph -->
+<h3 align="center">🐍 GitHub Snake eating my contribution graph:</h3>
+<p align="center">
+  <img src="https://github.com/akash1675/akash1675/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
-![Snake animation](https://github.com/Platane/Platane/blob/output/github-contribution-grid-snake.svg)
 
 <!--   GitHub snake contribution graph -->
 <h3 align="center"> 📊 GitHub Stats Graph: </h3>
