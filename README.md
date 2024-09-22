@@ -103,7 +103,7 @@ Down below some motivational advices:
 <!--   GitHub snake contribution graph -->
 <h3 align="center"> 📊 GitHub Stats Graph: </h3>
 
-<a href="https://github.com/CodeKaito">
+<a href="https://github.com/akash1675">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akash1675&theme=github_dark" width="32.5%">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash1675&theme=github_dark" width="32.5%">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akash1675&theme=github_dark&utcOffset=8" width="32.5%">
