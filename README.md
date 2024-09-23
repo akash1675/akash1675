@@ -87,7 +87,7 @@ src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVuejN2MG1qaDdoaXFxcHI5dmNlNm
 <!--   GitHub snake contribution graph -->
 <!-- GitHub Snake contribution graph -->
 
-  ![Snake animation](https://github.com/akash1675/akash1675/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/akash1675/akash1675/blob/main/github-contribution-grid-snake.svg)
  
 
 <!--   GitHub snake contribution graph -->
