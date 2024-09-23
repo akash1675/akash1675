@@ -14,26 +14,19 @@
 <img align="right" width="400"
 src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVuejN2MG1qaDdoaXFxcHI5dmNlNmxrMHV3bXFxbnN3NmY5Y29ydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="coding" />
 
-👨‍💻 I'm Rahul.
-<br>
-Down below some motivational advices:
-<br>
-🚀 When you reach your limit, break it!
-<br>
-☀️ Watch the sunrise at least once a day
+- 🔭 I’m currently working on backend project
+- 🌱 I’m currently learning ... DevOps
+- 📫 How to reach me: ...captainakash1675@gmail.com
+- 😄 Pronouns: ... he/him
 
 
-<br>
-<br>
-<br>
-<br>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<div style = ""><h3 >Connect with me:</h3> <p>
 <a href="https://www.linkedin.com/in/captxrahul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerome-de-cinco-4b4904189/" height="30" width="40" /></a>
 </p>
+</div>
+
 
 <br>
-
 
 <!-- GitHub streak -->
 <h3 align="center"> 🏆 GitHub Contribution Streak! Road to 100: </h3>
