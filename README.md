@@ -94,8 +94,9 @@ src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVuejN2MG1qaDdoaXFxcHI5dmNlNm
 <h3 align="center"> 📊 GitHub Stats Graph: </h3>
 
 <a href="https://github.com/akash1675">
+          <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=akash1675&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akash1675&theme=github_dark" width="32.5%">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash1675&theme=github_dark" width="32.5%">
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akash1675&theme=github_dark&utcOffset=8" width="32.5%">
 </a>
 
