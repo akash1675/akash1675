@@ -6,7 +6,7 @@
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Eat;Code;Sleep;Repeat!&font=Verdana&duration=2000&pause=100&color=11B4F7&center=true&width=280&height=40" alt="Typing SVG" />
 </p>
-<h2 align="center">Fullstack Dev | Software Engineer</h2>
+<h2 align="center">Fullstack Dev</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akash1675&label=Profile%20views&color=0e75b6&style=flat" alt="akash1675" /> </p>
 
 <br>
