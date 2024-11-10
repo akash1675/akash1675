@@ -40,7 +40,7 @@ src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVuejN2MG1qaDdoaXFxcHI5dmNlNm
 <h3 align="center"> 💻 Programming languages that I know: </h3>
 <p align="center">
     <!-- Angular -->
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+<!--     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> -->
     <!-- React -->
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     <!-- Arduino -->
