@@ -20,10 +20,17 @@ src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVuejN2MG1qaDdoaXFxcHI5dmNlNm
 - 😄 Pronouns: ... he/him
 
 
-<div style = ""><h3 >Connect with me:</h3> <p>
-<a href="https://www.linkedin.com/in/captxrahul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerome-de-cinco-4b4904189/" height="30" width="40" /></a>
-</p>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <h3 style="margin: 0;">Connect with me:  <a href="https://www.linkedin.com/in/captxrahul/" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+      alt="LinkedIn" 
+      height="30" 
+      width="40" />
+  </a> 
+  </h3>
 </div>
+
 
 
 <br>
